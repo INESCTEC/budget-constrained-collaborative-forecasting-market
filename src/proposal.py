@@ -16,7 +16,7 @@ from scipy.stats import pearsonr
 from scipy.spatial.distance import cdist
 import sympy as sp
 
-from main.custom_pipeline import CustomSplineLassoModelPipeline
+from src.custom_pipeline import CustomSplineLassoModelPipeline
 
 
 class FeatureSelectorByPValue(BaseEstimator, TransformerMixin):
