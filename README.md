@@ -54,6 +54,7 @@ The codes provided are organized as follows:
 │   ├── 3-b-gefcom2014-compare-models.py           
 │   ├── 3-b-gefcom2014-draw-plots.py               
 │   └── 3-c-gefcom2014-run-data-market.py          
+├── LICENSE                 # License file
 ├── requirements.txt        # Dependencies
 └── README.md               # This file
 ```
